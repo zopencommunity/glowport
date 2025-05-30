@@ -1,6 +1,6 @@
 # Update bump details accordingly. Use bump check to confirm.
 # bump: glow-version /GLOW_VERSION="(.*)"/ https://github.com/charmbracelet/glow.git|semver:*
-GLOW_VERSION="2.1.0" # Specify a stable release
+GLOW_VERSION="2.1.1" # Specify a stable release
 # export ZOPEN_STABLE_TAG="v${GLOW_VERSION}"
 
 ###
